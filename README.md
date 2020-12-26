@@ -1,2 +1,8 @@
-# Hackintosh
-Hackintosh OpenCore EFI configure
+# OpenCore EFI
+
+```
+主板：华硕Z490-I
+CPU: i9-9700k
+显卡: RX5700XT 8GB
+网卡：Broadcom BCM9436CS2
+```
